@@ -5,7 +5,5 @@ This is a demo repo to share ideas around communication
 This is a good example of [my code](https://gist.github.com/kbzunder/56261cbef052fe7f5480d4f73f4eeeb3)
 
 ### Colab 
-This is [my colab](https://colab.research.google.com/drive/1t2Rwh87C5TTaviYdm9OClM-6mgmMB2a2#scrollTo=hfoywMcTXXZp)
+<img width="799" alt="CleanShot 2022-12-11 at 12 27 20@2x" src="https://user-images.githubusercontent.com/48279007/206898401-c3f61fe3-b679-49fa-98ae-01599d775c3a.png">
 
-### Image
-https://github.com/kbzunder/technical-discussion/issues/1#issue-1489787618
