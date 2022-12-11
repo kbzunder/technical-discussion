@@ -8,3 +8,4 @@ This is a good example of [my code](https://gist.github.com/kbzunder/56261cbef05
 This is [my colab](https://colab.research.google.com/drive/1t2Rwh87C5TTaviYdm9OClM-6mgmMB2a2#scrollTo=hfoywMcTXXZp)
 
 ### Image
+https://github.com/kbzunder/technical-discussion/issues/1#issue-1489787618
